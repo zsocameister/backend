@@ -1,0 +1,8 @@
+{
+    "users": [
+        {"id": 1, "name": "Big Ramy", "email": "bigramy@gmail.com"},
+        {"id": 2, "name": "Zsoca meister", "email": "zsoca@gmail.com"},
+        {"id": 3, "name": "Bó cica", "email": "bogyo@gmail.com"},
+        {"id": 4, "name": "Ü veg", "email": "glassyguy@gmail.com"}
+    ]
+}

@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Big Ramy",
+      "email": "bigramy@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Zsoca meister",
+      "email": "zsoca@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Bocica",
+      "email": "bogyo@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Üveg Pityu",
+      "email": "glassyguy@gmail.com"
+    },
+    {
+      "name": "mester",
+      "email": "m@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "asd",
+      "email": "asd",
+      "id": 6
+    }
+  ]
+}
